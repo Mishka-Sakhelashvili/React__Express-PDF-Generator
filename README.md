@@ -1,7 +1,7 @@
 ### Hi there 👋
 <hr />
 
-<img height="400px" src="https://github.com/Mishka-Sakhelashvili/React__Express__PDFGenerator/blob/master/cover.jpg?raw=true"/>
+<img height="400px" src="https://github.com/Mishka-Sakhelashvili/React__Express-PDF-Generator/blob/master/cover.jpg?raw=true"/>
 
 <hr />
 <h2><i>Contact Me: </i></h2>
